@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](<iframe src="https://giphy.com/embed/poRNEwYpjOQZKZoO1T" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
+![](https://github.com/KhaledAchech/KhaledAchech/blob/master/Khaled.gif)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KhaledAchech&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
@@ -8,7 +8,7 @@
 - 🌱 Developing new tools and automating manual tasks
 - 👯 I’m looking to collaborate on any Python Projects
 - 💬 Ask me about AI/ML, Devops, Networks and other tech stuff
-- 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s)
+<!-- - 📫 How to reach me: [Twitter: @ibr4him_s](https://twitter.com/ibr4him_s) -->
 - 😄 Pronouns: he/him
 
 ![](https://komarev.com/ghpvc/?username=KhaledAchech&color=blueviolet) <br/>
