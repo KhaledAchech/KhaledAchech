@@ -15,7 +15,7 @@
 ### My Bun Article
 
 <a href="https://medium.com/@achechkhaled/bun-new-js-runtime-17bfdb9161cd">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/medium.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>
 
 ### Languages
