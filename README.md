@@ -3,13 +3,15 @@
 ![](https://github.com/KhaledAchech/KhaledAchech/blob/master/Khaled.gif)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KhaledAchech&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-- 🦊 Currently, I'm working on a new project called scuttle. More details will be communicated spoon ... 
-- 📡 Link to my automation and networking managment end of studies project repo : [Github](https://github.com/KhaledAchech/automation-tool-web)
-- 🔭 Link to my unfinished game AGRO hopefully one day in the future : [Facebook : @AGRO](https://www.facebook.com/MakingOfAGRO)
-- 🌱 Always looking to learn new things (currently I'm trying to enter the DevOps world)
-- 👯 I’m looking to collaborate on any Python Projects
-- 💬 Ask me about Game Dev, Automation, Web Dev and hopefully DevOps in the near future
-- 😄 Pronouns: he/him
+  
+  - 🦊 Currently, I'm working on a new project called scuttle. More 
+  details will be communicated spoon
+  - 📡 Link to my automation and networking managment end of studies project repo : [Github](https://github.com/KhaledAchech/automation-tool-web)
+  - 🔭 Link to my unfinished game AGRO hopefully one day in the future : [Facebook : @AGRO](https://www.facebook.com/MakingOfAGRO)
+  - 🌱 Always looking to learn new things (currently I'm trying to enter the DevOps world)
+  - 👯 I’m looking to collaborate on any Python Projects
+  - 💬 Ask me about Game Dev, Automation, Web Dev and hopefully DevOps in the near future
+  - 😄 Pronouns: he/him
 
 ![](https://komarev.com/ghpvc/?username=KhaledAchech&color=blueviolet) <br/>
 
