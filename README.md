@@ -9,7 +9,7 @@
   - 📡 Link to my automation and networking managment end of studies project repo : [Github](https://github.com/KhaledAchech/automation-tool-web)
   - 🔭 Link to my unfinished game AGRO hopefully one day in the future : [Facebook : @AGRO](https://www.facebook.com/MakingOfAGRO)
   - 👨‍💻 I enjoy doing problem solving occasionally on [Leetcode](https://leetcode.com/khaled_achech/)
-  - 🌱 Always looking to learn new things (currently I'm trying to enter the DevOps world)
+  - 🌱 Always looking to learn new things
   - 👯 I’m looking to collaborate on Projects that revolves around automation
   - 💬 Ask me about Game Dev, Automation, Web Dev and hopefully DevOps in the near future
   - 😄 Pronouns: he/him
